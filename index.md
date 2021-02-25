@@ -6,9 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Microwave Example
 
-Whirlpool Over-the-Range Household Microwave Oven Model: WMH301017FS
+Whirlpool Over-the-Range Household Microwave Oven Model WMH301017FS
 
-```markdown
 #### 1. Issues:
 
 After a weeks' worth of observation these are some of the issues that I have enocounterd with my current microwave located in my apartment kitchen. 
