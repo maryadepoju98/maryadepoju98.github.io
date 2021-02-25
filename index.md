@@ -1,10 +1,10 @@
 ## Project 1 READ ME
 
-Name: Mary Adepoju
-Course: CS 4331 - Human Computer Interaction
-Dr. Tommy Dang
-26 February 2021 
-
+Name: Mary Adepoju  
+Course: CS 4331 - Human Computer Interaction  
+Dr. Tommy Dang  
+26 February 2021   
+  
 Below is the report for the Project 1 microwave assignment. 
 ### Part C
 
