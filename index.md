@@ -20,7 +20,7 @@ After a weeks' worth of observation these are some of the issues that I have eno
 
 #### 2. Uses
 
-After a weeks' worth of observations these are the most common uses of my communal microwave.  The (*) denoates that the use is not as common but still applicable. For most of the common use function the microwave already has buttons set to these features. 
+After a weeks' worth of observations these are the most common uses of my communal microwave.  The (*) denoates that the use is not as common but still applicable. 
 
 - Heating food
 - Defrosting chicken
@@ -29,15 +29,27 @@ After a weeks' worth of observations these are the most common uses of my commun
 - popping popcorn
 - conditioning my wig*
 
+##### Does the interface make doing those common things easier?
+
+For most of the common use function the microwave already has buttons set to these features. 
+
 #### 3. Common Sequence
 
 Open the microwave -> Put Object in microwave -> close the microwve -> select desired feature -> click the start button
 
-#### 4. Common Mistakes:
+#### 4. How does the microwave support the user figure out how to make it work?
+
+When the user opens the microwave, there are instructions on how to use the functions. Thus instructions are not extreamly clear but it is understandable. 
+
+#### 5. Feedback:
+
+- When the microwave is done completing the task it beeps three times. Until the user opens the microwave door the microwave will continue to beep ever two minutes to remind the user that they have not recieved their end product. 
+
+#### 6. Common Mistakes:
 
 - Common mistakes that me and my roommate make is assuming that the microwave has an express mode. When there is an express mode the users just have to click the number and that represent the x amount of minutes the food will microwave. Our microwave does not have this feature so at time we put the food in the microwave click a number and walk away thinking the microwave has started.
 
-#### 5. Suggestions/Improvements
+#### 7. Suggestions/Improvements
 
 - Addition of express mode
 - Addition of signal volume control
