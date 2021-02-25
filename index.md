@@ -27,6 +27,20 @@ After a weeks' worth of observations these are the most common uses of my commun
 - popping popcorn
 - conditioning my wig*
 
+#### 3. Common Sequence
+
+Open the microwave -> Put Object in microwave -> close the microwve -> select desired feature -> click the start button
+
+#### 4. Common Mistakes:
+
+- Common mistakes that me and my roommate make is assuming that the microwave has an express mode. When there is an express mode the users just have to click the number and that represent the x amount of minutes the food will microwave. Our microwave does not have this feature so at time we put the food in the microwave click a number and walk away thinking the microwave has started.
+
+#### 5. Suggestions/Improvements
+
+- Addition of express mode
+- Addition of signal volume control
+- Deletion of popcorn button
+
 
 1. Numbered
 2. List
