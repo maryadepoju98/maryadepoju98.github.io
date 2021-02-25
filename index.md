@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Whirlpool Over-the-Range Household Microwave Oven Model WMH301017FS
 
-![Apartment Microwave](C:\Users\Owner\Desktop\Tech\SPR21\HCI\microwave.jpeg)
+![microwave](https://user-images.githubusercontent.com/43687054/109187734-cd96bc00-7757-11eb-8d19-dc0534fc1339.jpeg)
 
 #### 1. Issues:
 
