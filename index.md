@@ -1,9 +1,11 @@
 ## Project 1 READ ME
 
-You can use the [editor on GitHub](https://github.com/maryadepoju98/maryadepoju98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Name: Mary Adepoju
+Course: CS 4331 - Human Computer Interaction
+Dr. Tommy Dang
+26 February 2021 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Below is the report for the Project 1 microwave assignment. 
 ### Part C
 
 ##### Microwave Example
