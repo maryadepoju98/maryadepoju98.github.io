@@ -1,22 +1,33 @@
-## Welcome to GitHub Pages
+## Project 1 READ ME
 
 You can use the [editor on GitHub](https://github.com/maryadepoju98/maryadepoju98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Microwave Example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Whirlpool Over-the-Range Household Microwave Oven Model: WMH301017FS
 
 ```markdown
-Syntax highlighted code block
+#### 1. Issues:
 
-# Project 1
-## Header 2
-### Header 3
+After a weeks' worth of observation these are some of the issues that I have enocounterd with my current microwave located in my apartment kitchen. 
 
-- Bulleted
-- List
+- There is no express time feature. To enter 5 minutes the user must manually click the numbers 5,0,0 and click start
+- There is no volume control or a way to silence Completion signal
+-  A lot of popcorn brands will tell you to **NOT** use the popcorn feature that comes with the microwave rendering the function useless. 
+
+#### 2. Uses
+
+After a weeks' worth of observations these are the most common uses of my communal microwave.  The (*) denoates that the use is not as common but still applicable. For most of the common use function the microwave already has buttons set to these features. 
+
+- Heating food
+- Defrosting chicken
+- Melthing butter
+- softening cream cheese
+- popping popcorn
+- conditioning my wig*
+
 
 1. Numbered
 2. List
