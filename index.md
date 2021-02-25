@@ -4,11 +4,15 @@ You can use the [editor on GitHub](https://github.com/maryadepoju98/maryadepoju9
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Microwave Example
+### Part C
+
+##### Microwave Example
 
 Whirlpool Over-the-Range Household Microwave Oven Model WMH301017FS
 
 ![microwave](https://user-images.githubusercontent.com/43687054/109187734-cd96bc00-7757-11eb-8d19-dc0534fc1339.jpeg)
+
+### Part B
 
 #### 1. Issues:
 
@@ -59,6 +63,7 @@ When the user opens the microwave, there are instructions on how to use the func
 - Addition of signal volume control
 - Deletion of popcorn button
 
+### Part A
 
 1. Numbered
 2. List
