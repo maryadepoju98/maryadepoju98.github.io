@@ -17,6 +17,7 @@ After a weeks' worth of observation these are some of the issues that I have eno
 - There is no express time feature. To enter 5 minutes the user must manually click the numbers 5,0,0 and click start
 - There is no volume control or a way to silence Completion signal
 -  A lot of popcorn brands will tell you to **NOT** use the popcorn feature that comes with the microwave rendering the function useless. 
+-  the instructions on how to use the functions are not clear
 
 #### 2. Uses
 
