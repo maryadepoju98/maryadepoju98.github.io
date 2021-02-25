@@ -27,6 +27,9 @@ After a weeks' worth of observations these are the most common uses of my commun
 - Defrosting chicken
 - Melthing butter
 - softening cream cheese
+- disinfect sponges*
+- softening citrus fruit*
+- soften brown sugar*
 - popping popcorn
 - conditioning my wig*
 
