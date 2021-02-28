@@ -3,7 +3,9 @@
 Name: Mary Adepoju  
 Course: CS 4331 - Human Computer Interaction  
 Dr. Tommy Dang  
-26 February 2021   
+26 February 2021 
+
+Link to website : [project1report](https://maryadepoju98.github.io/)
   
 Below is the report for the Project 1 microwave assignment. 
 ### Part C
