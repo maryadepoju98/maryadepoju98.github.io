@@ -68,13 +68,12 @@ When the user opens the microwave, there are instructions on how to use the func
 - Addition of express mode
 - Addition of signal volume control
 - Deletion of popcorn button
+- tactile buttons
 
-### Part A
+#### 9. Prototype Sketch
 
-1. Numbered
-2. List
+![microwaveSketch](https://user-images.githubusercontent.com/43687054/109434627-d1d30b80-79db-11eb-85ab-af7c2ce70ac8.jpeg)
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
