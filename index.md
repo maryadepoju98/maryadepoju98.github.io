@@ -58,6 +58,9 @@ When the user opens the microwave, there are instructions on how to use the func
 #### 6. Feedback:
 
 - When the microwave is done completing the task it beeps three times. Until the user opens the microwave door the microwave will continue to beep ever two minutes to remind the user that they have not recieved their end product. 
+- When any button is clicked the microwave will make a noise
+- When the defrost button is clicked it ask for the item's category (i.e. poultry or meat) then it ask for the weight
+- When the options cook, reheat, soften or melt is selected it will ask the user what categorie does the item belong to and the user will select the corresponding digit and then it will ask for the weight
 
 #### 7. Common Mistakes:
 
