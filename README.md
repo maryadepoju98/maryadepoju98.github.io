@@ -1,4 +1,4 @@
-# maryadepoju98.github.io
+# p1MaryAdepoju.github.io
 Project
 
 Microwave Example:
@@ -29,5 +29,6 @@ Common Mistakes:
 
 Suggestions:
 -	Addition of express mode
--	Addition of sensor cook
+-	Addition of tactile buttons
+-	led screen
 -	Addition of signal volume control
