@@ -75,7 +75,7 @@ When the user opens the microwave, there are instructions on how to use the func
 ![microwaveSketch](https://user-images.githubusercontent.com/43687054/109434627-d1d30b80-79db-11eb-85ab-af7c2ce70ac8.jpeg)
 
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
