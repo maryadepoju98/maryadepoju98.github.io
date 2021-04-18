@@ -32,12 +32,12 @@ Examplex
 #### 3. Features the user interacts with
 
 - warning lights
--   a. low gas
--   b. low tire pressure 
--   c. brakes
--   d. seatbelt 
--   e. check engine
--   f. power steering
+  a. low gas
+  b. low tire pressure 
+  c. brakes
+  d. seatbelt 
+  e. check engine
+  f. power steering
 -   
 
 #### 4. Common Mistakes
