@@ -9,19 +9,6 @@ Link to website : [Project Report/Website](https://maryadepoju98.github.io/)
   
 Below is the report for the Project 2 dashboard assignment. 
 
-# p2MaryAdepoju
-Project #2 for CS 4331 Human Computer Interaction
-
-
-## Project 2 READ ME
-
-Name: Mary Adepoju  
-Course: CS 4331 - Human Computer Interaction  
-Dr. Tommy Dang  
-26 February 2021 
-
-Link to website : [Project Report/Website](https://maryadepoju98.github.io/)
-
 ### Part C
 Examplex
 -   2005 Cadillac Escalade 
