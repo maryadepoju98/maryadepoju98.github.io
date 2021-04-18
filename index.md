@@ -35,15 +35,18 @@ Example:
 - Tire Pressure Reader
 
 #### 2. Rare Features
-
+- impromtu phone stand for GPS or Netflix
+- 
 #### 3. Features the user interacts with
-
+- insert picture
 #### 4. Common Mistakes
-
+- insert picture
 #### 5. Suggested Improvements
 - You can make a better distinction between the speedometer and the tachometer
+
 ### Part A
 
+- insert picture
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
