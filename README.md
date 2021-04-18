@@ -23,13 +23,13 @@ Examplex
 - Fuel/Gas Gauge
 - Engine Temperature Gauge
 - Tire Pressure Reader
-- Gear Shift
-- gps features
+- current gear shift position
 
 #### 2. Rare Features
 - clock / time
 - radio control
 - alarm
+- gps navigation
 
 #### 3. Features the user interacts with
 
@@ -41,7 +41,9 @@ Examplex
   e. check engine
   f. power steering
 -  trip counter 
--  the speedometer as an effect of stepping on the gas
+-  the speedometer as an effect of the user stepping on the gas
+-  current gear shift as an effect of the user changing gear
+-  the lights on the dashboard turning on or off as an effect of the car headlights being on or off
 
 #### 4. Common Mistakes
 - sometimes people confuse the rpm with their speedometer
