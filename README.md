@@ -23,12 +23,26 @@ Examplex
 - Fuel/Gas Gauge
 - Engine Temperature Gauge
 - Tire Pressure Reader
+- Gear Shift
 
 #### 2. Rare Features
+- clock / time
+- radio control 
 
 #### 3. Features the user interacts with
 
+- warning lights
+-   a. low gas
+-   b. low tire pressure 
+-   c. brakes
+-   d. seatbelt 
+-   e. check engine
+-   f. power steering
+-   
+
 #### 4. Common Mistakes
+- sometimes people confuse the rpm with their speedometer
+- the engine temperature is sometime confused for the car ac
 
 #### 5. Suggested Improvements
 - You can make a better distinction between the speedometer and the tachometer
