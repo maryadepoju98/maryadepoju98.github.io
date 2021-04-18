@@ -24,10 +24,12 @@ Examplex
 - Engine Temperature Gauge
 - Tire Pressure Reader
 - Gear Shift
+- gps features
 
 #### 2. Rare Features
 - clock / time
-- radio control 
+- radio control
+- alarm
 
 #### 3. Features the user interacts with
 
@@ -38,7 +40,8 @@ Examplex
   d. seatbelt 
   e. check engine
   f. power steering
--   
+-  trip counter 
+-  the speedometer as an effect of stepping on the gas
 
 #### 4. Common Mistakes
 - sometimes people confuse the rpm with their speedometer
