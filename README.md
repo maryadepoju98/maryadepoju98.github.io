@@ -15,7 +15,7 @@ Examples:
 
 | Pros                              | Cons                        |   
 |-----------------------------------|-----------------------------|
-| small lcd display                 | fuel gauge is inacurate     | 
+| small digital display             | fuel gauge is inacurate     | 
 | speedometer is large and readable | overly cluttered with gauges| 
 | battery odometer display          |                             |  
 
@@ -29,11 +29,11 @@ Examples:
 
 -   2014 Toyota Rav4 ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
 
-| Pros                     | Cons                               |
-|--------------------------|------------------------------------|
-| simple                   | too simple                         | 
-| small lcd display        | engine temperature not noticeable  |
-| outside weather display  |                                    | 
+| Pros                     | Cons                                        |
+|--------------------------|---------------------------------------------|
+| simple                   | too simple                                  | 
+| digital display          | information on digital display is too small |
+| outside weather display  |                                             | 
 
 -   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
 -   2020 Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
