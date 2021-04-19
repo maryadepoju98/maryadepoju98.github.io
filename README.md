@@ -10,12 +10,14 @@ Link to website : [Project Report/Website](https://maryadepoju98.github.io/)
 Below is the report for the Project 2 dashboard assignment. 
 
 ### Part C
-Examplex
--   2005 Cadillac Escalade 
--   2003 Honda Accord
--   2014 Toyota Rav4
--   2005 Nissan Altima
--   2006 Ford Expedition
+Example:
+-   2005 Cadillac Escalade ![cadillacEscalade](https://user-images.githubusercontent.com/43687054/115165201-67048f00-a072-11eb-9706-26b9ed5f95c8.jpeg)
+-   2003 Honda Accord https://github.com/maryadepoju98/maryadepoju98.github.io/issues/11
+-   2014 Toyota Rav4 ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
+-   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
+-   20xx Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
+
+
 ### Part B
 
 #### 1. The Most Common Features
@@ -34,7 +36,7 @@ Examplex
 #### 3. Features the user interacts with
 
 - warning lights
-  a. low gas
+- a. low gas
   b. low tire pressure 
   c. brakes
   d. seatbelt 
