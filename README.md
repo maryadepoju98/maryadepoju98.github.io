@@ -70,12 +70,12 @@ Examples:
 #### 3. Features the user interacts with
 
 - warning lights
-- a. low gas
-  b. low tire pressure 
-  c. brakes
-  d. seatbelt 
-  e. check engine
-  f. power steering
+  - a. low gas
+  - b. low tire pressure 
+  - c. brakes
+  - d. seatbelt 
+  - e. check engine
+  - f. power steering
 -  trip counter 
 -  the speedometer as an effect of the user stepping on the gas
 -  current gear shift as an effect of the user changing gear
