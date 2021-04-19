@@ -22,11 +22,11 @@ Example:
 -   2003 Honda Accord ![hondaAccord](https://user-images.githubusercontent.com/43687054/115165223-84395d80-a072-11eb-970c-d119febe17dd.jpeg)
 -   2014 Toyota Rav4 ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
 
-| Pros              | Cons                               |
-|-------------------|------------------------------------|
-| simple            | too simple                         | 
-| small lcd display | engine temperature not noticeable  |
-| outside weather   |                                    | 
+| Pros                     | Cons                               |
+|--------------------------|------------------------------------|
+| simple                   | too simple                         | 
+| small lcd display        | engine temperature not noticeable  |
+| outside weather display  |                                    | 
 
 -   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
 -   20xx Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
