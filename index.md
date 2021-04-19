@@ -111,10 +111,11 @@ Examples:
 - You can make a better distinction between the speedometer and the tachometer
 - simplified menu selection on lcd menu display
 - better labels
+- colors to know when you are in the danger zone
 
 
 ### Part A
-
+![IMG_4217](https://user-images.githubusercontent.com/43687054/115182834-46ebc480-a0a0-11eb-9d41-4680b369cb36.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
