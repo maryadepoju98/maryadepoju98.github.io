@@ -69,6 +69,7 @@ Examples:
 - A lcd menu is a great additon. However, menu selection while driving is distracting and can cause accidents. The lcd menu offers too many options, in my opinon should be offered to the passenger to control such as music options. 
 - Having the gps on the dashboard is nice because then the driver does not have to look far off from the road. The only downside is that the picture directions muight be too small
 
+
 ### Part B
 
 #### 1. The Most Common Features
@@ -83,29 +84,33 @@ Examples:
 - radio control
 - alarm
 - gps navigation
+- miles till next fill up is required
 
 #### 3. Features the user interacts with
 
 - warning lights
-- a. low gas
-  b. low tire pressure 
-  c. brakes
-  d. seatbelt 
-  e. check engine
-  f. power steering
+  - a. low gas
+  - b. low tire pressure 
+  - c. brakes
+  - d. seatbelt 
+  - e. check engine
+  - f. power steering
 -  trip counter 
 -  the speedometer as an effect of the user stepping on the gas
 -  current gear shift as an effect of the user changing gear
 -  the lights on the dashboard turning on or off as an effect of the car headlights being on or off
+-  the gas/fuel gauge as an effect of the user driving the vehicle and filling up
 
 #### 4. Common Mistakes
 - sometimes people confuse the rpm with their speedometer
 - the engine temperature is sometime confused for the car ac
+- the bigger the lcd display the larger the more of a distraction it is for a driver
+- lack of labeling most dashboards depend on pictures that the drivers do not understand
 
 #### 5. Suggested Improvements
 - You can make a better distinction between the speedometer and the tachometer
 - simplified menu selection on lcd menu display
-
+- better labels
 
 
 ### Part A
