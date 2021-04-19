@@ -13,11 +13,11 @@ Below is the report for the Project 2 dashboard assignment.
 Examples:
 -   2005 Cadillac Escalade ![cadillacEscalade](https://user-images.githubusercontent.com/43687054/115165201-67048f00-a072-11eb-9706-26b9ed5f95c8.jpeg)
 
-| Pros                              | Cons                    |   
-|-----------------------------------|-------------------------|
-| small lcd display                 | fuel gauge is inacurate | 
-| speedometer is large and readable |                         | 
-| battery odometer display          |                         |  
+| Pros                              | Cons                        |   
+|-----------------------------------|-----------------------------|
+| small lcd display                 | fuel gauge is inacurate     | 
+| speedometer is large and readable | overly cluttered with gauges| 
+| battery odometer display          |                             |  
 
 -   2003 Honda Accord ![hondaAccord](https://user-images.githubusercontent.com/43687054/115165223-84395d80-a072-11eb-970c-d119febe17dd.jpeg)
 
@@ -36,7 +36,13 @@ Examples:
 | outside weather display  |                                    | 
 
 -   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
--   20xx Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
+-   2020 Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
+
+| Pros                  | Cons                           |
+|-----------------------|--------------------------------|
+| gps                   | menu distracting while driving |
+| small lcd menu        |                                |
+| not overly cluttered  |                                |
 
 
 ### Part B
