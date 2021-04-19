@@ -19,6 +19,10 @@ Examples:
 | speedometer is large and readable | overly cluttered with gauges| 
 | battery odometer display          |                             |  
 
+- The more intricate the design the more expensive the vehicle is for the owner
+- When there are too many options it may be overwhelming for the driver, especially if they do not understand what all the uses are for
+- The digital display gives a message to the driver as well as uses the warning lights. For example, when there is low gas the digital display will read 'Low Feul Levels' as well as the low feul warning light will be turned on. Therefore if the driver does not understand the warning light the car will display an understandable message. 
+
 -   **2003 Honda Accord** ![hondaAccord](https://user-images.githubusercontent.com/43687054/115165223-84395d80-a072-11eb-970c-d119febe17dd.jpeg)
 
 | Pros                           | Cons                                 |
@@ -26,6 +30,10 @@ Examples:
 | simple                         | warning lights not readable at times |
 | trip tracker                   |                                      |
 | current gear shift noticeable  |                                      |
+
+- A trip tracker will help the driver get a good gauge of their gallon per gas. 
+- A noticable gear shift is important because a lot of drivers changing the gear shift without looking because it is second nature but having it right infront of them ensures they are in the right mode. 
+- The warning lights are not readable at a relaxed position in the driver seat which can cause a slight inconvience to the driver. 
 
 -   **2014 Toyota Rav4** ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
 
@@ -35,6 +43,9 @@ Examples:
 | digital display          | information on digital display is too small |
 | outside weather display  |                                             | 
 
+- The digital dispaly is a nice addition because its makes everything more compact. However, the engine temperature is not noticable enough on the displacy.
+- Simplicity is nice for drivers who do not know much about cars or do not like their dashboard cluttered with information but when it is overly simplified it may not relay all the information the driver is looking for.
+
 -   **2005 Nissan Altima** ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
 
 | Pros                              | Cons                                   |
@@ -42,6 +53,10 @@ Examples:
 | mileage digital display           | the enclave around each odometer/gauge |
 | speedometer does not come in km/h | warning sign not readable              |
 |                                   |                                        |
+
+- The enclaves around the odometers/guages make it harder to see the whole dashboard in one glance. 
+- The warning sing 'Service Needed Soon' is too small.
+- The speedometer does not come. in kilometers/hour like all the other dashboards so it would make it harder to drive the car in places like Mexico or Canada. 
 
 -   **2020 Nissan Rogue** ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
 
@@ -51,6 +66,8 @@ Examples:
 | small lcd menu        |                                |
 | not overly cluttered  |                                |
 
+- A lcd menu is a great additon. However, menu selection while driving is distracting and can cause accidents. The lcd menu offers too many options, in my opinon should be offered to the passenger to control such as music options. 
+- Having the gps on the dashboard is nice because then the driver does not have to look far off from the road. The only downside is that the picture directions muight be too small
 
 ### Part B
 
