@@ -11,7 +11,7 @@ Below is the report for the Project 2 dashboard assignment.
 
 ### Part C
 Examples:
--   2005 Cadillac Escalade ![cadillacEscalade](https://user-images.githubusercontent.com/43687054/115165201-67048f00-a072-11eb-9706-26b9ed5f95c8.jpeg)
+-   **2005 Cadillac Escalade** ![cadillacEscalade](https://user-images.githubusercontent.com/43687054/115165201-67048f00-a072-11eb-9706-26b9ed5f95c8.jpeg)
 
 | Pros                              | Cons                        |   
 |-----------------------------------|-----------------------------|
@@ -19,7 +19,7 @@ Examples:
 | speedometer is large and readable | overly cluttered with gauges| 
 | battery odometer display          |                             |  
 
--   2003 Honda Accord ![hondaAccord](https://user-images.githubusercontent.com/43687054/115165223-84395d80-a072-11eb-970c-d119febe17dd.jpeg)
+-   **2003 Honda Accord** ![hondaAccord](https://user-images.githubusercontent.com/43687054/115165223-84395d80-a072-11eb-970c-d119febe17dd.jpeg)
 
 | Pros                           | Cons                                 |
 |--------------------------------|--------------------------------------|
@@ -27,7 +27,7 @@ Examples:
 | trip tracker                   |                                      |
 | current gear shift noticeable  |                                      |
 
--   2014 Toyota Rav4 ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
+-   **2014 Toyota Rav4** ![toyotaRav4](https://user-images.githubusercontent.com/43687054/115165267-b5b22900-a072-11eb-9e89-5582b299a1ca.jpeg)
 
 | Pros                     | Cons                                        |
 |--------------------------|---------------------------------------------|
@@ -35,7 +35,7 @@ Examples:
 | digital display          | information on digital display is too small |
 | outside weather display  |                                             | 
 
--   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
+-   **2005 Nissan Altima** ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
 
 | Pros                              | Cons                                   |
 |-----------------------------------|----------------------------------------|
@@ -43,7 +43,7 @@ Examples:
 | speedometer does not come in km/h | warning sign not readable              |
 |                                   |                                        |
 
--   2020 Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
+-   **2020 Nissan Rogue** ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
 
 | Pros                  | Cons                           |
 |-----------------------|--------------------------------|
