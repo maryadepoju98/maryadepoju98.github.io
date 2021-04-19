@@ -84,6 +84,7 @@ Examples:
 - radio control
 - alarm
 - gps navigation
+- miles till next fill up is required
 
 #### 3. Features the user interacts with
 
@@ -98,15 +99,18 @@ Examples:
 -  the speedometer as an effect of the user stepping on the gas
 -  current gear shift as an effect of the user changing gear
 -  the lights on the dashboard turning on or off as an effect of the car headlights being on or off
+-  the gas/fuel gauge as an effect of the user driving the vehicle and filling up
 
 #### 4. Common Mistakes
 - sometimes people confuse the rpm with their speedometer
 - the engine temperature is sometime confused for the car ac
 - the bigger the lcd display the larger the more of a distraction it is for a driver
+- lack of labeling most dashboards depend on pictures that the drivers do not understand
 
 #### 5. Suggested Improvements
 - You can make a better distinction between the speedometer and the tachometer
 - simplified menu selection on lcd menu display
+- better labels
 
 
 ### Part A
