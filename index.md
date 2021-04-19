@@ -36,6 +36,13 @@ Examples:
 | outside weather display  |                                             | 
 
 -   2005 Nissan Altima ![nissanAltima](https://user-images.githubusercontent.com/43687054/115165248-a206c280-a072-11eb-8a39-0a895fd02abe.jpeg)
+
+| Pros                              | Cons                                   |
+|-----------------------------------|----------------------------------------|
+| mileage digital display           | the enclave around each odometer/gauge |
+| speedometer does not come in km/h | warning sign not readable              |
+|                                   |                                        |
+
 -   2020 Nissan Rogue ![nissanRogue](https://user-images.githubusercontent.com/43687054/115165231-8ef3f280-a072-11eb-8c27-b33def793ce1.jpg)
 
 | Pros                  | Cons                           |
