@@ -104,6 +104,8 @@ Examples:
 
 #### 5. Suggested Improvements
 - You can make a better distinction between the speedometer and the tachometer
+- simplified menu selection on lcd menu display
+
 
 
 ### Part A
